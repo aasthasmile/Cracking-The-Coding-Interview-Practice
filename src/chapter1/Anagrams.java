@@ -46,3 +46,5 @@ public class Anagrams {
 	}
 }
 
+/*
+'hammburger' and 'bumhmarerg' are Anagrams : true */

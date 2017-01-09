@@ -8,7 +8,7 @@ public class Anagrams {
 		String word1 = "hammburger";
 		String word2 = "bumhmarerg";
 	//		String word1 = "spar";
-   //		String word2 = "rasp";
+    //		String word2 = "rasp";
 		
 		
 		System.out.println("\'"+word1 + "\' and \'" + word2 + "\' are Anagrams : " + TwoStringsAnagrams(word1, word2));

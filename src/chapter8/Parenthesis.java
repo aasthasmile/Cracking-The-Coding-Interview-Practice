@@ -22,7 +22,6 @@ public class Parenthesis {
 		for (int i = 0; i < sol.size(); i++) {
 			System.out.println(i+" | "+sol.get(i) +" ");
 		}
-
 	}
 
 	public static void printParentheziation(int leftp, int rightp, char[] str, int index) {

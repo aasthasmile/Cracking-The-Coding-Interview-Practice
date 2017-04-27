@@ -19,7 +19,7 @@ public class Treesq3
 		if(n==null)
 			return;
 		
-			System.out.print(n.data+" ");
+		System.out.print(n.data+" ");
 		preOrderTraversal(n.left);
 		preOrderTraversal(n.right);
 		

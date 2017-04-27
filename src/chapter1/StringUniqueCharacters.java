@@ -5,7 +5,7 @@ public class StringUniqueCharacters {
 	static boolean flag =false;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String demo = "pastels";
+		String demo = "pastel";
 		System.out.println("Unique Characters: "+stringUniqueChars(demo));
 	}
 
